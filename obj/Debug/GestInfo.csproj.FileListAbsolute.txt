@@ -1,0 +1,9 @@
+\\profesor\recursos\APP Gestion\GestInfo\bin\Debug\GestInfo.exe.config
+\\profesor\recursos\APP Gestion\GestInfo\bin\Debug\GestInfo.exe
+\\profesor\recursos\APP Gestion\GestInfo\bin\Debug\GestInfo.pdb
+\\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.csproj.AssemblyReference.cache
+\\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.Properties.Resources.resources
+\\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.csproj.GenerateResource.cache
+\\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.csproj.CoreCompileInputs.cache
+\\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.exe
+\\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.pdb
