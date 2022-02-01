@@ -7,3 +7,13 @@
 \\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.csproj.CoreCompileInputs.cache
 \\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.exe
 \\profesor\recursos\APP Gestion\GestInfo\obj\Debug\GestInfo.pdb
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.csproj.AssemblyReference.cache
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.CapaPresentación.ModeloPresentación.resources
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.CapaPresentacion.pInventarioEquipoCliente.resources
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.CapaPresentacion.pTipoEquipos.resources
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.Properties.Resources.resources
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.csproj.GenerateResource.cache
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.exe
+C:\Users\Equipo\source\repos\GestInfo\GestInfo\obj\Debug\GestInfo.pdb
