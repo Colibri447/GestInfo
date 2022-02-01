@@ -9,7 +9,7 @@ using System.Data.SqlClient;
 using GestInfo.CapaEntidades;
 // *****************************************************************************************************
 // INFORMACION:
-//
+//Prueba Rama
 // EQUIPO DE DESARROLLO:  Equipo 1
 // COMPONENTES DEL EQUIPO: Hector R., Nadia, Ruben, Pablo
 // FECHA: 25.01.2022
